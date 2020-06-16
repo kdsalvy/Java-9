@@ -25,7 +25,7 @@ a value = 10
 
 ## Java 9 Module System 
 [Reusable-Module](./hello-world-module)
-[Reusable-Client](./hello-world-client)
+[Reusable-Module-Demo](./library-changes/src/java9/modules/client/Client.java)
 
 ## Process API performance improvements
 [ProcessHandle Demo](./library-changes/src/java9/process/api/ProcessAPIDemo.java)
