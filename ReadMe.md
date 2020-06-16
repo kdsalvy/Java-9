@@ -1,7 +1,7 @@
 # Java 9 Updates
 
 ## Java 9 REPL (JShell)
-Oracle Corp has introduced a new tool called ìjshellî. It stands for Java Shell 
+Oracle Corp has introduced a new tool called ‚Äújshell‚Äù. It stands for Java Shell 
 and also known as REPL (Read Evaluate Print Loop). It is used to execute and test 
 any Java Constructs like class, interface, enum, object, statements etc. very easily.
 
@@ -18,29 +18,29 @@ a value = 10
 ```
 
 ## Factory Methods for Immutable Collections
-[Collections Demo] (./library-changes/src/java9/collections/CollectionsFactoryMethod.java)
+[Collections Demo](./library-changes/src/java9/collections/CollectionsFactoryMethod.java)
 
 ## Private methods in Interfaces 
-[Interfaces Demo] (./library-changes/src/java9/interfaces/InterfacesWithPrivateMethods.java)
+[Interfaces Demo](./library-changes/src/java9/interfaces/InterfacesWithPrivateMethods.java)
 
 ## Java 9 Module System 
-[Reusable-Module] (./hello-world-module)
-[Reusable-Client] (./hello-world-client)
+[Reusable-Module](./hello-world-module)
+[Reusable-Client](./hello-world-client)
 
 ## Process API performance improvements
-[ProcessHandle Demo] (./library-changes/src/java9/process/api/ProcessAPIDemo.java)
+[ProcessHandle Demo](./library-changes/src/java9/process/api/ProcessAPIDemo.java)
 
 ## Try-With-Resources API readablilty improvements
-[Try-With-Resources Demo] (./library-changes/src/java9/exceptions/handling/TryWithResourcesImprovementDemo.java)
+[Try-With-Resources Demo](./library-changes/src/java9/exceptions/handling/TryWithResourcesImprovementDemo.java)
 
 ## Completable Future API improvements
-[CompletableFuture Demo] (./library-changes/src/java9/concurrency/executors/CompletableFutureImprovementDemo.java)
+[CompletableFuture Demo](./library-changes/src/java9/concurrency/executors/CompletableFutureImprovementDemo.java)
 
 ## Reactive Streams
-[Reative Steam Demo] (./library-changes/src/java9/concurrency/reactive/programming/ReactiveAppDemo.java)
+[Reative Steam Demo](./library-changes/src/java9/concurrency/reactive/programming/ReactiveAppDemo.java)
 
 ## Anonymous class Diamond operator fix
-[Demo] (./library-changes/src/java9/classes/anonymous/AnonymousClassDiamonOprDemo.java)
+[Demo](./library-changes/src/java9/classes/anonymous/AnonymousClassDiamonOprDemo.java)
 
 ## Optional class enhancements
-[Optional Class Enhancements Demo] (./library-changes/src/java9/optional/OptionalClassAdditionsDemo.java)
+[Optional Class Enhancements Demo](./library-changes/src/java9/optional/OptionalClassAdditionsDemo.java)
