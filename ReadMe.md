@@ -50,3 +50,13 @@ a value = 10
 
 ## Deprecated Annotation enhancement
 [Deprecated enhancement Demo](./library-changes/src/java9/annotations/EnhancedDeprecatedAnnotationDemo.java)
+
+## SafeVarArgs Annotation feature addtion
+[SafeVarArgs Demo](./library-changes/src/java9/annotations/SafeVarArgsDemo.java)
+
+## HTTP2 and Websocket out of the box support
+[Http2 Demo](./library-changes/src/java9/http2/support/Http2SupportDemo.java)
+
+## Java new version string scheme & Runtime.Version class introduction
+[Runtime.Version Demo](./library-changes/src/java9/newversionstring/NewVersionStringSchemeDemo.java)
+
