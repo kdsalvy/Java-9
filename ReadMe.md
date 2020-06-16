@@ -44,3 +44,9 @@ a value = 10
 
 ## Optional class enhancements
 [Optional Class Enhancements Demo](./library-changes/src/java9/optional/OptionalClassAdditionsDemo.java)
+
+## Stream API enhancements
+[Stream API Enhancements Demo](./library-changes/src/java9/streams/StreamsImprovement.java)
+
+## Deprecated Annotation enhancement
+[Deprecated enhancement Demo](./library-changes/src/java9/annotations/EnhancedDeprecatedAnnotationDemo.java)
