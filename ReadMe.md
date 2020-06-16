@@ -18,10 +18,10 @@ a value = 10
 ```
 
 ## Factory Methods for Immutable Collections
-[Collections Demo](./library-changes/src/java9/collections/CollectionsFactoryMethod.java)
+[Collections Demo](./library-changes/src/java9/collections/CollectionsFactoryMethods.java)
 
 ## Private methods in Interfaces 
-[Interfaces Demo](./library-changes/src/java9/interfaces/InterfacesWithPrivateMethods.java)
+[Interfaces Demo](./library-changes/src/java9/interfaces/Java9InterfaceDemo.java)
 
 ## Java 9 Module System 
 [Reusable-Module](./hello-world-module)
